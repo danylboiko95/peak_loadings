@@ -1,6 +1,6 @@
 # Solution that solves peak loadings problem for the biggest European football website https://goal.com
 
-For every solution autoscale group should solve most of the problems. But below I've described specific cases for each page. Added detailed description here https://docs.google.com/document/d/1hhlnDJMAOJtljTHPDflAA_m6-0Jq1nLfoN6RY83U12Q/edit?usp=sharing
+For every solution autoscale group should solve most of the problems. But below I've described specific cases for each page. Added detailed description here https://docs.google.com/document/d/1hhlnDJMAOJtljTHPDflAA_m6-0Jq1nLfoN6RY83U12Q/edit
 | Page         | Description / Type                               | Solution                                                                                         |
 | ------------ | ------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | Main         | Main page with news and links to other pages     | - Different CDN responses and scaled groups based on the country                                 |
